@@ -1,0 +1,3 @@
+# AdventOfCode
+My Advent of code repo...
+Can I do each challenge in one line of code?
