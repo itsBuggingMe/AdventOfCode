@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Days.Run(1);
-            Days.Run(2);
+            Console.WriteLine(File.ReadAllText(Directory.GetParent(System.Reflection.Assembly.GetExecutingAssembly().Location) + "/input3.txt"));
         }
     }
 }
